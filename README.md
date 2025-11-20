@@ -4,3 +4,4 @@ The ESP32-C5 SoC (System on Chip) supports 2.4 & 5 GHz dual-band Wi-Fi 6, Blueto
 ## Documentation
 - [ESP32 C5 Guide](https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32c5/esp32-c5-devkitc-1/user_guide.html)
 - [ESP32 C5 Installation](https://docs.espressif.com/projects/esp-idf/en/stable/esp32c5/get-started/index.html)
+- [ESP-IDF](https://github.com/espressif/esp-idf/tags)
